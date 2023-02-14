@@ -1,0 +1,4 @@
+Marek 20
+Jarek 30
+Zosia 40
+Ania 10

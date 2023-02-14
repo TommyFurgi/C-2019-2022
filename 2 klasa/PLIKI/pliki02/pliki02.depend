@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607590916 source:c:\users\dell\desktop\pliki02\main.cpp
+	<iostream>
+	<fstream>
+
+1607782605 source:c:\users\dell\desktop\pliki\pliki02\main.cpp
+	<iostream>
+	<fstream>
+

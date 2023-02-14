@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610793403 source:c:\users\dell\desktop\c++\2 klasa\pliki\pliki04\main.cpp
+	<iostream>
+	<fstream>
+

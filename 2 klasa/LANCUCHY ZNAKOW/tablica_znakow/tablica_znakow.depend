@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605012910 source:c:\users\dell\desktop\tablica_znakow\main.cpp
+	<iostream>
+	<cstring>
+
+1605012910 source:c:\users\dell\desktop\c++\2 klasa\lancuchy znakow\tablica_znakow\main.cpp
+	<iostream>
+	<cstring>
+
