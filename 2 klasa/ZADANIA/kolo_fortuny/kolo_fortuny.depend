@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605308850 source:c:\users\dell\desktop\kolo_fortuny\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
+1605384730 source:c:\users\dell\desktop\c++\2 klasa\zadania\kolo_fortuny\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<ctime>
+
