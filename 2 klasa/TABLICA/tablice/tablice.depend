@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603959915 source:c:\users\dell\desktop\c++\2 klasa\tablice\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

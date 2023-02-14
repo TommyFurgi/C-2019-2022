@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604747325 source:c:\users\dell\desktop\c++\tablic_dwuwymiariowa\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

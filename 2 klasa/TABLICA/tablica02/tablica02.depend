@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604572492 source:c:\users\dell\desktop\c++\tablica02\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
